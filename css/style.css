@@ -774,7 +774,7 @@ main {
 /* form */
 .form__btn {
     border: 0;
-    padding-bottom: 3px;
+    padding-bottom: 4px;
     font-size: calc(var(--index) * 0.55);
 }
 
